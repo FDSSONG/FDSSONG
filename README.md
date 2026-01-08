@@ -15,7 +15,9 @@
 </div>
 
 <h1>My Github Information</h1>
-![GitHub stats](https://github-immortality.vercel.app/api?username=fdssong)
+<p align="center">
+  <img src="https://github-immortality.vercel.app/api?username=fdssong" />
+</p>
 
 
 
