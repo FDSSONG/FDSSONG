@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20FDSSONG&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F759AA&background=F5EDFF00&random=false&width=435&lines=Welcome+to+my+GitHub+page!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F759AA&background=F5EDFF00&random=false&width=480&lines=%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%B8%BA%E7%AC%94%EF%BC%8C%E5%86%99%E7%AE%97%E6%B3%95%E5%B1%B1%E6%B2%B3" />
 </p>
 <h1>Introduction</h1>
 <div>
@@ -14,16 +14,6 @@
 </div>
 
 <h1>My Github Information</h1>
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=FDSSONG&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=FDSSONG&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FDSSONG&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FDSSONG&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-</p>
 
 
 <!--
