@@ -15,7 +15,7 @@
 </div>
 
 <h1>My Github Information</h1>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdssong&show_icons=true&hide_border=true)
+![GitHub stats](https://github-immortality.vercel.app/api?username=fdssong)
 
 
 
