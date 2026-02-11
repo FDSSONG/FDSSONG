@@ -6,6 +6,8 @@
 
 <h1>Introduction</h1>
 
+Hi, I’m 花椒大王, a postgraduate student at Nanjing University of Aeronautics and Astronautics (NUAA). I’m currently focusing on reinforcement learning (RL), Java engineering, and LLM application development. I’m also passionate about backend engineering and distributed systems, working with Java/Python, Kafka/RocketMQ, Redis, and MySQL. I enjoy learning and building things, and I’m always trying to grow into a better version of myself.
+
 <div style="font-size:20px; line-height:1.9;">
   <p>🎓 Postgraduate student at Nanjing University of Aeronautics and Astronautics (NUAA).</p>
   <p>🌱 Currently focusing on RL research, Java engineering, and LLM application development.</p>
