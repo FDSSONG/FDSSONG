@@ -30,6 +30,14 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/-RocketMQ-D77310?style=flat-square&logo=apacherocketmq&logoColor=white" />
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+  ![GDB](https://img.shields.io/badge/GDB-3D3D3D?style=flat-square&logo=gnu&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 </div>
 
 <h1>My Github Information</h1>
