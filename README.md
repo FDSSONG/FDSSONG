@@ -5,13 +5,13 @@
 </p>
 
 <h1>Introduction</h1>
-<div>
-- 🎓 Postgraduate student at Nanjing University of Aeronautics and Astronautics (NUAA).
-<br/>
-- 🌱 Currently focus on RL research, Java engineering, and LLM application development.
-<br/>
-- 🛠️ Interested in backend engineering and distributed systems: Java，Python, Kafka/RocketMQ, Redis, MySQL.
+
+<div style="font-size:16px; line-height:1.9;">
+  <p>🎓 Postgraduate student at Nanjing University of Aeronautics and Astronautics (NUAA).</p>
+  <p>🌱 Currently focusing on RL research, Java engineering, and LLM application development.</p>
+  <p>🛠️ Interested in backend engineering and distributed systems: Java, Python, Kafka/RocketMQ, Redis, MySQL.</p>
 </div>
+
 
 <h1>Tech Stack</h1>
 <!-- 技术栈徽章（复用你之前的居中代码） -->
