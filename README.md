@@ -6,11 +6,11 @@
 
 <h1>Introduction</h1>
 <div>
-- 🔭 I’m currently a Postgraduate student in Nanjing University of Aeronautics and Astronautics.
+- 🎓 Postgraduate student at Nanjing University of Aeronautics and Astronautics (NUAA).
 <br/>
-- 🌱 I’m currently learning Reinforcement Learning ,Java ,Algorithm.
+- 🌱 Currently focus on RL research, Java engineering, and LLM application development.
 <br/>
-- ⚡ My hobby: work out ,code ,running ,Photograph 
+- 🛠️ Interested in backend engineering and distributed systems: Java，Python, Kafka/RocketMQ, Redis, MySQL.
 </div>
 
 <h1>Tech Stack</h1>
