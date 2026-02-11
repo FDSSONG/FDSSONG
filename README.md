@@ -30,6 +30,7 @@ Hi, I’m 花椒大王, a postgraduate student at Nanjing University of Aeronaut
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/-RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 <h1>My Github Information</h1>
